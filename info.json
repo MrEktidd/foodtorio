@@ -1,0 +1,15 @@
+{
+    "name": "foodtorio",
+    "version": "0.3.4",
+    "title": "Foodtorio",
+    "author": "MrEktidd",
+    "contact": "MrEktidd",
+    "homepage": "https://mods.factorio.com/mod/foodtorio",
+    "description": "Foodtorio is an overhaul mod introducing complex Spaghetti and Sushi chains. Now with Jaffa Cakes! Working hunger and nutrition systems into Factorio!",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0",
+        "? aquilo-seabloom-algaculture",
+        "? pyalienlife" 
+    ]
+}

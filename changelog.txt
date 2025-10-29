@@ -1,0 +1,198 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.4
+Date: 2025-10-27
+  Changes:
+    - Added hotkey Shift+H to hide hunger/nutrition bars. 
+---------------------------------------------------------------------------------------------------
+Version: 0.3.3
+Date: 2025-10-22
+  Changes:
+    - Made Raw Fish an edible food source available in early game.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 2025-10-22
+  Changes:
+    - Changed Jelly to Gelatin to avoid naming conflicts
+---------------------------------------------------------------------------------------------------
+Version: 0.3.1
+Date: 2025-10-22
+  Changes:
+    - Reaaranged Jaffa Cake ingredients so they appear correctly.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2025-10-22
+  Added:
+    - Sugarcane
+    - Sugar
+    - Eggs
+    - Cake Batter
+    - Cake Base
+    - Orange
+    - Marmalade
+    - Jelly
+    - Cocoa Beans
+    - Cocoa Nibs
+    - Cocoa Powder
+    - Chocolate
+    - Melted Chocolate
+    - Jaffa Cakes
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 2025-2-28
+  Changes:
+    - Added compatability for Py Alien Life
+    - Changed name of Seaweed to Nori to avoid future conflicts
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2025-2-25
+  Changes:
+    - Added compatability for Wooden Aquilo: Seabloom Algaculture
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2025-2-25
+  Changes:
+    - Removed all dependency mods.
+    - Added Items:
+    - Cow, Raw Beef, Beef, Rice, Wheat, Cucumber, Avocado, Flour, Garlic, Raw Salt, Vinegar, Potato
+    - Added Fluids:
+    - Milk
+    - Fixed research requirements for lots of items.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 2024-12-25
+  Changes:
+    - Fix GUI locale issues and optimize multiple details.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2024-12-22
+  Fixes:
+    - Fixed bug where eating ice cream caused error
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024-12-21
+  Fixes:
+    - Various backend changes. Everything seems good. Please let me know if you encounter any issues.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.12
+Date: 2024-12-21
+  Fixes:
+    - Changed local descriptions to allow for alternate languages
+    - Added CN translation to Health bars and Eat menus
+---------------------------------------------------------------------------------------------------
+Version: 0.0.11
+Date: 2024-12-21
+  MAJOR UPDATE:
+    - THE HUNGER UPDATE!
+    - ALL Fruit and ALL Foodtorio edible foods have been configured to fill specific nutrition bars.
+    - Independent hunger bar refills from all foods, if hunger hits 0 you take damage.
+    - Independent nutrition bars based on the foods you eat. Low nutrition bars do not cause damage.
+    - Each full nutrition bar provide 50% multiplier to different stats, to make it worth consuming different foods
+    - Simply click a food item from your inventory to open the Eat GUI.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.10
+Date: 2024-12-20
+  Changes:
+    - Removed redundant tech locks
+---------------------------------------------------------------------------------------------------
+Version: 0.0.9
+Date: 2024-12-17
+  Changes:
+    - Fixed missing Locales
+    - Removed double technology locks
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 2024-12-17
+  Changes:
+    - Added Russian translation - Thanks to PinnedFox
+    - Research Changes
+    - Recipe Changes
+    - Graphics Fixes
+    - Formatting Fixes
+  Content Added:
+    - Sushi Update! Now you can make sushi with sushi belts! 5 Types of rolls with more to come!
+    - Added Salmon, Smoked Salmon, Tuna, Smoked Tuna, Shrimp, Eel, Octopus, Squid, Roe, Crab, Crab Meat, Seaweed, Nori Sheets.
+    - Added Mixed Sesame Seeds, Black Sesame Seeds, White Sesame Seeds, Ginger, Pickled Ginger, Yellowtail, Mackerel,
+    - Added Salmon Roll, Tuna Roll, Shrimp Roll, California Roll, Eel Roll
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 2024-12-16
+  Bugfixes:
+    - Graphics fix
+  Changes:
+    - Tech locked all Foodtorio items, prerequisites may continue to be updated.
+    - Added item descriptions to most items
+    - Added Chinese translation - Thanks to Plex
+  Content Added:
+    - Added Liquid: Bulk Growth Medium
+    - Added Item: Vial of Growth Medium
+    - Added Item: Cultured Meat
+    - Added Recipe: Beef
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 2024-12-15
+  Bugfixes:
+    - removed finely-crafted-machines as a dependency (may be added again in the future as needs arise)
+  Major Changes:
+    - Introduced 2 new science packs; Farming Science Packs and Cooking Science Packs. Chef Science Packs will follow in later versions.
+    - Assigned various recipes to associated machines
+    - Added science requirement for jams, ice-creams, juices, and pies.
+  Content Added:
+    - Farming & Cooking Science Packs
+    - Simple Stir Fry
+    - Forks
+    - Knives
+    - Spoons
+    - Plates
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 2024-12-15
+  Content Added:
+    - Raw Ground Beef
+    - Dried Black Pepper		-Ground Beef
+    - Salt and Pepper		-Vegetable and Spice Medley
+    - Basic Tomato Sauce		-Parmesan Cheese
+    - Gourmet Tomato Sauce		-Plate of Gourmet Spaghetti
+    - Tomato Paste
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2024-12-15
+  Fixes:
+        - Fixed synthetic protein crafting issue
+    - Changed Thumbnail
+    - Added Foodtorio Crafting tab
+  Content Added:
+    - Brown Mushroom			-Peppers and Onions Mix
+    - Sliced Brown Mushroom		-Basil
+    - Green Pepper			-Dried Basil
+    - Chopped Green Pepper		-Parsley
+    - Red Pepper			-Dried Parsley
+    - Chopped Red Pepper		-Oregano
+    - Red Onion			-Dried Oregano
+    - Diced Red Onion		-Spice Mix
+    - Black Pepper
+    - Dried Black Pepper
+    - Salt and Pepper
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2024-12-14
+  Bugfixes:
+    - Added thumbnail
+
+  Content Added:
+    - Synthetic Protein production
+        -Crushed coal		-Electrolysis
+    - Crushed iron		-Hydrogen
+    - Crushed Copper		-Oxygen
+    - Gravel			-Boiled Water
+    - Algae			-Mineral Compound
+    - Moss			-Microbial Biomass
+    - Mineral Compound	-Fermented Culture
+    - Synthetic Protein
